@@ -5,7 +5,7 @@ from babel.numbers import format_currency
 sns.set(style='dark')
 
 # Load data
-merged_data = pd.read_csv("merged_data.csv")
+merged_data = pd.read_csv("./merged_data.csv")
 
 # Title
 st.title('Dashboard Analisis Data E-commerce')
