@@ -1,4 +1,4 @@
-# Data Analyst Project Seller Dataset with Order Items Dataset
+# Data Analyst Project Seller Dataset with Order Items Dataset - Bayu Puspito Aji
 
 # Analysis Questions
 - How does performance compare between sellers from different cities or states?
